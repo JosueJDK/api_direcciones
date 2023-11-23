@@ -1,0 +1,18 @@
+{
+  "name": "api_direcciones",
+  "version": "1.0.0",
+  "description": "API CRUD DIRECCIONES",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "JouCode",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "pg": "^8.11.3",
+    "sequelize": "^6.35.1",
+    "sequelize-cli": "^6.6.2"
+  }
+}

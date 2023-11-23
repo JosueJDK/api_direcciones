@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "admin",
+      "password": "admin",
+      "database": "api_direcciones",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "admin",
+      "password": "admin",
+      "database": "api_direcciones",
+      "host": "localhost",
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "admin",
+      "password": "admin",
+      "database": "api_direcciones",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
+  
